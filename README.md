@@ -1,28 +1,74 @@
-# StartAngular
+# Angular - Trilha Front-end 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+## **Sobre o projeto**
 
-## Development server
+Neste repositório você encontra os desafios relacionados ao framework Angular realizados durante a trilha front end. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<br />
 
-## Code scaffolding
+## **Tabela de conteúdo**
+<!--ts-->
+   * [Sobre o projeto](#sobre-o-projeto)
+   * [Desafios](#desafios)
+   * [Teórico](#teórico)
+   * [Como baixar o projeto](#como-baixar-o-projeto)
+   * [Autora](#autora)
+<!--te-->
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<br />
 
-## Build
+## **Desafios**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Os desafios anteriores você encontra nesse [repositório](https://github.com/amandakehl/trilhaFrontEnd)! 👾
 
-## Running unit tests
+5.1: [Angular: Parte Um](https://tremendous-cinema-114.notion.site/5-1-Angular-In-cio-ed8e52b8c43d4e3da0205b32611cc9ff)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+5.2: Componentes e rotas
 
-## Running end-to-end tests
+5.3: Back-end + Angular 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+6: Protótipo criado em Angular
 
-## Further help
+7: Design System
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-"# trilhaFrontEndAngular" 
+8: Integração do desafio com o Cloud 
+
+9: Desafio final 
+
+<br />
+
+## **Teórico** 
+Você pode conferir toda parte teórica referente ao Angular no [Notion](https://tremendous-cinema-114.notion.site/Trilha-0b2b01f81d0b4aadbee6f0753565aac5)! 
+
+<br />
+
+## **Como baixar o projeto**
+
+```bash
+    # Para clonar o repositório 
+    $ git clone https://github.com/amandakehl/trilhaFrontEndAngular 
+
+    # Entrar no diretório 
+    $ cd trilhaFrontEndAngular
+
+    # Instalar as dependências 
+    $ npm install 
+
+    # Iniciar o projeto 
+    $ ng serve
+    Run `ng serve` para rodar o server e navegue em `http://localhost:4200/`
+```
+
+<br />
+
+## **Autora**
+
+<a href="https://github.com/akfarias">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/73315527?v=4" width="100px;" alt=""/>
+ <br />
+</a>
+
+Feito com ❤️ por Amanda Kehl de Farias!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Amanda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akfarias/)](https://www.linkedin.com/in/akfarias/) 
+[![Gmail Badge](https://img.shields.io/badge/-amandakehldefarias@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amandakehldefarias@gmail.com)](mailto:amandakehldefarias@hotmail.com)
