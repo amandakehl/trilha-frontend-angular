@@ -1,5 +1,7 @@
-<h1>Olá :) </h1>
-<app-interpolation></app-interpolation>
+<h1>Desafio 7</h1>
 
-
-<router-outlet></router-outlet>
+<main>
+    <button [routerLink]="['lista']">Abrir lista de números</button>
+    <button [routerLink]="['pipes']">Abrir página de testes de pipe</button>
+    <router-outlet></router-outlet>
+</main>

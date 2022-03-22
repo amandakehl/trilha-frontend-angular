@@ -1,0 +1,6 @@
+<p>Data do evento: {{ participant.date | date:'d/M/y' }}</p>
+<p>Preço: {{ participant.price | currency:'BRL':true }}</p>
+<p>Ingressos limitados ({{ participant.percent | percent }} já foram vendidos)</p>
+<p>Código: {{ '12345678901234567890' | codigoConvite }}</p>
+<p>CPF do participante: {{ '00000000000' | documentoCPF }} </p>
+<p>CNPJ da empresa do participante: {{ '00000000000000' | documentoCNPJ }} </p>
