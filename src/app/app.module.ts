@@ -14,6 +14,7 @@ import { TestesPipeComponent } from './components/testes-pipe/testes-pipe.compon
 import { CodigoConvitePipe } from './pipes/codigo-convite.pipe';
 import { DocumentoCPFPipe } from './pipes/documento-cpf.pipe';
 import { DocumentoCNPJPipe } from './pipes/documento-cnpj.pipe';
+import { ExemplosPipesComponent } from './components/exemplos-pipes/exemplos-pipes.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { DocumentoCNPJPipe } from './pipes/documento-cnpj.pipe';
     TestesPipeComponent,
     CodigoConvitePipe,
     DocumentoCPFPipe,
-    DocumentoCNPJPipe
+    DocumentoCNPJPipe,
+    ExemplosPipesComponent
   ],
   imports: [
     BrowserModule,
