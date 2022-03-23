@@ -21,11 +21,11 @@ Neste repositório você encontra os desafios relacionados ao framework Angular 
 
 Os desafios anteriores você encontra nesse [repositório](https://github.com/amandakehl/trilhaFrontEnd)! 👾
 
-5.1: [Angular: Parte Um](https://tremendous-cinema-114.notion.site/5-1-Angular-In-cio-ed8e52b8c43d4e3da0205b32611cc9ff)
+5.1: [Angular I: SPA, Interpolation, Bindings, Diretivas e Forms](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioCinco-Angular/DesafioCinco-Um)
 
-5.2: Componentes e rotas
+5.2: [Angular II: Componentes, Rotas e Pipes](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioCinco-Angular/DesafioCinco-Dois)
 
-5.3: Back-end + Angular 
+5.3: Angular III: Back-end + Angular 
 
 6: Protótipo criado em Angular
 
