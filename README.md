@@ -33,7 +33,7 @@ Os desafios anteriores você encontra nesse [repositório](https://github.com/am
 
 8: [Integração do desafio com a AWS](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioOito-Integracao)
 
-9: Desafio final 
+9: [Desafio Final](https://github.com/amandakehl/trilhaFrontEnd/tree/main/DesafioNove-Final)
 
 <br />
 
