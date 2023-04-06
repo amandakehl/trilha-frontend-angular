@@ -46,10 +46,10 @@ Você pode conferir toda parte teórica referente ao Angular no [Notion](https:/
 
 ```bash
     # Para clonar o repositório 
-    $ git clone https://github.com/amandakehl/trilhaFrontEndAngular 
+    $ git clone https://github.com/amandakehl/trilha-frontend-angular 
 
     # Entrar no diretório 
-    $ cd trilhaFrontEndAngular
+    $ cd trilha-frontend-angular
 
     # Instalar as dependências 
     $ npm install 
